@@ -1,2 +1,2 @@
 # SpringBoot-AI
-![Alexandre de Moraes](pirroca.jpg)
+![Alexandre de Moraes](./piroca.jpg)
